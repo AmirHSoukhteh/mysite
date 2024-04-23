@@ -20,5 +20,5 @@ It will be first website ever made by me
 ## Create Project
 
 > What should I do:
->* `django-admin startproject mysite . `  
+>* `django-admin.py startproject mysite . `  
 > Dot at the end means *create project* in current directory.
